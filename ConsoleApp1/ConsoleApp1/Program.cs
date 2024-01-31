@@ -92,6 +92,8 @@ arrayList.Add(1);
 arrayList.Add("salam");
 arrayList.Add("new");
 
+arrayList.RemoveAt(2);
+
 
 foreach (var item in arrayList)
 {
